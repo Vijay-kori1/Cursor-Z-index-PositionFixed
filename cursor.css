@@ -1,0 +1,36 @@
+h1{
+    border-style: solid;
+    border-width: 10px;
+    background-color: blue;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border-radius: 1000px;
+    cursor: all-scroll;
+}
+h2{
+    border-style: solid;
+    border-width: 10px;
+    background-color: blueviolet;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border-radius: 1000px;
+    cursor: cell;
+}
+h3{
+    border-style: solid;
+    border-width: 10px;
+    background-color: chartreuse;
+    display: inline-block;
+    height: 100px;
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border-radius: 1000px;
+    cursor: crosshair;
+}
